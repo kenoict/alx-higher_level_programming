@@ -36,4 +36,4 @@ File | Tasks
 6-peak.py, 6-peak.txt | A Python function that finds a peak in a list of unsorted integers
 
 ## Author
-Francesca Cantor
+mafabi kennedy
